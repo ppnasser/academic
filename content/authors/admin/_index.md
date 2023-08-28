@@ -3,9 +3,10 @@ avatar_filename: avatar.jpg
 bio: "My current reseach interest is causal inference and I work as a Data
   Analyst for the biggest wholesale bank in Latin America: bank: Itaú BBA"
 interests:
+  - Causal Inference
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Finance
+  - Microeconometrics
 social:
   - icon: envelope
     icon_pack: fas
