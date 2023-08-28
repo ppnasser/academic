@@ -1,84 +1,56 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+avatar_filename: 1000142812.jpg
+bio: "My current reseach interest is causal inference and I work as a Data
+  Analyst for the biggest wholesale bank in Latin America: bank: Itaú BBA"
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact/patricknasser@ime.usp.br
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/patrickpnasser
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: broke
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ppnasser
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://www.linkedin.com/in/patrick-p-nasser/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: University of São Paulo
+    url: ""
+education:
+  courses:
+    - course: MSc student in Statistics
+      institution: University of São Paulo
+      year: ""
+    - course: BA in Economics
+      institution: University of São Paulo
+      year: 2020
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
+role: MSc student in Statistics | Data Analyst | BA in Economics
 highlight_name: true
+title: Patrick Parente Nasser
+first_name: Alice
+email: ""
 ---
+My passion lies in solving real-world problems guided by data.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I consider myself too much of a generalist for a specialist, and too much of a specialist for a generalist. The reason? I have experience in highly diverse areas such as the financial market, quantitative research, the public sector, digital products, and corporate finance, all while pursuing a Master's in Statistics and holding a Bachelor's degree in Economics.
+
+My current focus revolves around data-driven innovation: tackling business challenges through analytical solutions, models, and/or data products.
