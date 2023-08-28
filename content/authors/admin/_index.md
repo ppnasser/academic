@@ -1,5 +1,5 @@
 ---
-avatar_filename: 1000142812.jpg
+avatar_filename: avatar.jpg
 bio: "My current reseach interest is causal inference and I work as a Data
   Analyst for the biggest wholesale bank in Latin America: bank: Itaú BBA"
 interests:
