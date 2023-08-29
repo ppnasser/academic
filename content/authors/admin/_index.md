@@ -39,7 +39,7 @@ education:
       year: ""
     - course: BA in Economics
       institution: University of São Paulo
-      year: 2020
+      year: 2019
 superuser: true
 status:
   icon: ☕️
